@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm João Victor</h1>
 <h3 align="center">A passionate Backend developer from Brazil</h3>
 
-- 🔭 I’m currently studying on **Senac**
+- 🔭 I’m currently studying **analysis and systems development**
 
-- 🌱 I’m currently learning **.Net Framework | Jovem Programador**
+- 🌱 I’m currently learning more about **asp.netcore**
 
-- 💬 Ask me about **C# |.Net | Python**
+- 💬 Ask me about **asp.net, javascript, css**
 
 - 📫 How to reach me **contato.vitorsantos@hotmail.com**
 
