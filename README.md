@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently studying **analysis and systems development**
 
-- 🌱 I’m currently learning more about **asp.netcore**
+- 🌱 I’m currently learning more about **Micro services**
 
 - 💬 Ask me about **asp.net, javascript, css**
-
-- 📫 How to reach me **contato.vitorsantos@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
